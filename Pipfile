@@ -12,5 +12,4 @@ psycopg2-binary = "*"
 bootstrap4 = "*"
 django-debug-toolbar = "*"
 requests = "*"
-
-
+whitenoise = "*"

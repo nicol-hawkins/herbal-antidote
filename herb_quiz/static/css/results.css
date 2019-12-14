@@ -1,0 +1,76 @@
+
+img {
+    border-radius: 25px;
+    width: 475px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -10px;
+    width: 85%;  
+  
+ }
+
+ .results-container {
+   margin-top: 50px;
+   margin-bottom: 50px;
+ }
+
+ .herb-name {
+    /* font-family: 'Girassol', cursive; */
+    text-align: left;
+    padding-left: 55px;
+ }
+
+ .botanical-name {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 18pt;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px rgb(245, 225, 115);
+}
+
+ .text-center {
+    text-align: center;
+    font-size: 15.3pt;
+ }
+
+
+ .herb-card {
+    /* Add shadows to create the "card" effect */
+    justify-content: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 700px;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 15px; /* Added */
+    padding-top: 12px;
+    padding-bottom: 5px;
+    background-color: white;
+
+  }
+
+ 
+
+  /* On mouse-over, add a deeper shadow */
+  .herb-card:hover {
+    box-shadow: 0 20px 35px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .card-container {
+    padding: 10px 10px;
+    width: 600px;
+    margin: auto;
+    opacity: .9;
+    
+  }
+
+
+  .herb.info {
+      text-align: center;
+  }
+
+
+
+ 
