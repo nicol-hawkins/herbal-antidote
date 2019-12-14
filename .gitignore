@@ -287,3 +287,8 @@ pip-selfcheck.json
 .env
 .envs/*
 
+# Remove sqlite3 from vc
+
+db.sqlite3
+db.sqlite3.backup
+db.sqlite3.backup
