@@ -1,0 +1,49 @@
+/* Custom CSS goes here */
+
+.navbar {
+    background: linear-gradient(135deg, #302c2c 0%, #000000 100%);
+}
+
+.card-user {
+    max-width: 80px;
+}
+
+.navbar-avatar {
+    height: 30px;
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+
+/* .question-container {
+    width: 800px;
+    border: 0px solid green;
+    padding: 5px;
+    margin: 20px;
+} */
+
+.welcome {
+    font-family: 'Droid Serif';
+    font-size: 34pt;
+    margin-top: -40px;
+    font-style: italic;
+}
+
+
+.icon {
+    border-radius: 50%;
+    width: 175px;
+    background-color: rgb(248, 204, 58);
+  }
+
+
+.white-container {
+    width: 1250px;
+    height: auto;
+    background-color: white;
+    padding-bottom: 45px;
+}
+
+
+
+  
+
