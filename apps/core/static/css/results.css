@@ -6,25 +6,27 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: -20px;
     width: 85%;  
+  
  }
 
  .results-container {
    margin-top: 50px;
+   margin-bottom: 50px;
  }
 
  .herb-name {
+    /* font-family: 'Girassol', cursive; */
     text-align: left;
-    padding-left: 52px;
+    padding-left: 55px;
  }
 
  .botanical-name {
   font-family: 'Kaushan Script', cursive;
   font-size: 18pt;
-}
-
-h3 .botanical-name {
-  font-family: 'Kaushan Script', cursive;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px rgb(245, 225, 115);
 }
 
  .text-center {
@@ -45,6 +47,7 @@ h3 .botanical-name {
     padding-top: 12px;
     padding-bottom: 5px;
     background-color: white;
+
   }
 
  

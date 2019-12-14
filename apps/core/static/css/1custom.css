@@ -14,18 +14,23 @@
     margin-bottom: -10px;
 }
 
-/* .question-container {
-    width: 800px;
-    border: 0px solid green;
-    padding: 5px;
-    margin: 20px;
-} */
 
 .welcome {
     font-family: 'Droid Serif';
-    font-size: 34pt;
+    font-size: 40pt;
+    font-weight: bold;
     margin-top: -40px;
     font-style: italic;
+    -webkit-text-stroke: 1px black;
+}
+
+.intro-heading {
+    -webkit-text-stroke: 1px black;
+}
+
+.btn-xl {
+    color: black
+
 }
 
 
@@ -37,7 +42,7 @@
 
 
 .white-container {
-    width: 1250px;
+    width: 100%;
     height: auto;
     background-color: white;
     padding-bottom: 45px;
