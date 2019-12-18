@@ -14,10 +14,8 @@ DATABASES = {
 }
 
 #'django.contrib.staticfiles',  this is needed to populate images on results.html
-INSTALLED_APPS += [
-    'debug_toolbar',
-    'django.contrib.staticfiles',
-    ]
+INSTALLED_APPS += ['debug_toolbar',
+'django.contrib.staticfiles']
 
 
 
