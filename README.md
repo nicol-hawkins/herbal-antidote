@@ -25,7 +25,7 @@ Herbal Antidote is a wellness app. It's a quiz that takes you through a series o
 * SQLite database was used for local development. 
 * Pushing app to Heroku requires use of Postgres database. 
 
-### Screenshot
+## Screenshots
 [![Screen-Shot-2020-05-07-at-3-35-51-PM.png](https://i.postimg.cc/W1Tk9nhr/Screen-Shot-2020-05-07-at-3-35-51-PM.png)](https://postimg.cc/9rg00yPF)
 *********
 [![herbal-antidote.png](https://i.postimg.cc/NM7DnMQf/herbal-antidote.png)](https://postimg.cc/r0s50qdv)
