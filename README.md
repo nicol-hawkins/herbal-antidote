@@ -25,6 +25,15 @@ Herbal Antidote is a wellness app. It's a quiz that takes you through a series o
 * SQLite database was used for local development. 
 * Pushing app to Heroku requires use of Postgres database. 
 
+### Screenshot
+[![Screen-Shot-2020-05-07-at-3-35-51-PM.png](https://i.postimg.cc/W1Tk9nhr/Screen-Shot-2020-05-07-at-3-35-51-PM.png)](https://postimg.cc/9rg00yPF)
+*********
+[![herbal-antidote.png](https://i.postimg.cc/NM7DnMQf/herbal-antidote.png)](https://postimg.cc/r0s50qdv)
+*********
+[![Screen-Shot-2020-05-07-at-3-35-36-PM.png](https://i.postimg.cc/1XFqd7G0/Screen-Shot-2020-05-07-at-3-35-36-PM.png)](https://postimg.cc/zHJvbjP3)
+*********
+
+
 ## Development
 
 * Prereq: [You have Pipenv installed.
@@ -34,16 +43,14 @@ Herbal Antidote is a wellness app. It's a quiz that takes you through a series o
 
 ### Running locally
 
-
-2. Go into the newly created project, and use `pipenv` to get your virtualenv
+1. Go into project, and use `pipenv` to get your virtualenv
 setup
 ```
-cd mycoolproject
 pipenv shell
 pipenv install --dev
 ```
 
-5. Get the server running:
+2. Get the server running:
 ```
 python manage.py runserver
 ```
