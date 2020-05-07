@@ -2,6 +2,9 @@
 
 Herbal Antidote is a wellness app. It's a quiz that takes you through a series of true/false questions, and used that information to generate recommendations for herbal remedies based on the needs of the user. It uses GoogleMaps API for geolocation servies, allowing the user to search for local herb shops in the area. 
 
+**DISCLAIMER**
+Information provided by this app is not intended to treat, disagnose or cure serious physical/mental health issues. Please remember when you are using herbs for their medicinal properties, they are just that – 'medicinal'. If you wish to take a herbal remedy with prescribed medicines, you should talk to a pharmacist or your GP first. 
+
 
 ## About
 
