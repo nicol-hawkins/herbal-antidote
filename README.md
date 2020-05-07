@@ -1,6 +1,6 @@
 # Herbal Antidote
 
-This is a quiz app built using bootstrap, Python and Django with a SQLite database. The app takes you through a series of true/false questions, and generates herbal recommendations based on the needs of the user. There is also a GoogleMaps API where the user can search for herb shops in their area. 
+Herbal Antidote is a wellness app with a quiz takes you through a series of true/false questions, and used that information to generate herbal recommendations based on the needs of the user. There is also a GoogleMaps API for geolocation servies so the user can search for herb shops in their area. 
 
 
 ## About
