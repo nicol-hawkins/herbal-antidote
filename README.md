@@ -5,6 +5,8 @@ Herbal Antidote is a wellness app. It's a quiz that takes you through a series o
 **DISCLAIMER**
 Information provided by this app is not intended to treat, disagnose or cure serious physical/mental health issues. Please remember when you are using herbs for their medicinal properties, they are just that – 'medicinal'. If you wish to take a herbal remedy with prescribed medicines, you should talk to a pharmacist or your GP first. 
 
+[Demo](https://herbal-antidote.herokuapp.com/)
+
 
 ## About
 
