@@ -14,15 +14,14 @@ DATABASES = {
 }
 
 #'django.contrib.staticfiles',  this is needed to populate images on results.html
-INSTALLED_APPS += ['debug_toolbar',
-'django.contrib.staticfiles']
+INSTALLED_APPS += ['django.contrib.staticfiles']
 
 
 
 # Add in Debug Toolbar Middleware
-MIDDLEWARE = [
-    'debug_toolbar.middleware.DebugToolbarMiddleware',
-] + MIDDLEWARE
+# MIDDLEWARE = [
+#     'debug_toolbar.middleware.DebugToolbarMiddleware',
+# ] + MIDDLEWARE
 
 # Required configuration for debug toolbar
 INTERNAL_IPS = [
