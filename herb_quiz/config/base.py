@@ -41,7 +41,7 @@ DJANGO_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
-    'django.contrib.staticfiles',  #to use runserver I had to comment this out.
+    # 'django.contrib.staticfiles',  #to use runserver I had to comment this out.
 ]
 
 INSTALLED_APPS = LOCAL_APPS + THIRD_PARTY_APPS + DJANGO_APPS
