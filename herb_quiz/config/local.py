@@ -1,7 +1,7 @@
 # Settings that are unique to local dev go here
 from .base import *
 
-DEBUG = True
+DEBUG = False
 
 # Database
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
